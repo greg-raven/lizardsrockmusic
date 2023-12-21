@@ -1,6 +1,6 @@
-# redirect from Netlify to custom domain
+# redirect from Cloudflare to custom domain
 
-https://lizardsrockmusic.netlify.app/* https://www.lizardsrockmusic.com/:splat 301!
+https://lizardsrockmusic.pages.dev/* https://www.lizardsrockmusic.com/:splat 301!
 
 # others
 
