@@ -1,0 +1,2 @@
+Sitemap: https://www.lizardsrockmusic.com/sitemap.xml
+Sitemap: https://www.lizardsrockmusic.com/sitemap.txt

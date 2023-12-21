@@ -1,0 +1,28 @@
+# redirect from Netlify to custom domain
+
+https://lizardsrockmusic.netlify.app/* https://www.lizardsrockmusic.com/:splat 301!
+
+# others
+
+/cd.html /music/favorites/index.html 301
+/discography.html /music/index.html 301
+/favorites.html /music/favorites/index.html 301
+/friends.html /music/friends/index.html 301
+/hop_skip_sing.html /music/hop-skip-sing/index.html 301
+/house-we-live-in/index.html /music/house-we-live-in/index.html 301
+/house-we-live-in/instruments.html /music/house-we-live-in/instruments.html 301
+/house-we-live-in/lyrics-1.html /music/house-we-live-in/lyrics-1.html 301
+/house-we-live-in/lyrics-2.html /music/house-we-live-in/lyrics-2.html 301
+/jambalaya.html /music/jambalaya/index.html 301
+/juba.html /music/juba/index.html 301
+/lullabies.html /music/lullabies/index.html 301
+/only_around_here.html /clippings/only_around_here.html 301
+/singing_prancing.html /music/singing-prancing-dancing/index.html 301
+/sky-bears/index.html /music/sky-bears/index.html 301
+/sky-bears/instruments.html /music/sky-bears/instruments.html 301
+/sky-bears/lyrics.html /music/sky-bears/lyrics.html 301
+/sky-bears/tape.html /music/sky-bears/tape.html 301
+/watersongs/index.html /music/watersongs/index.html 301
+/watersongs/lyrics.html /music/watersongs/lyrics.html 301
+/wee_songs.html /music/wee_songs/index.html 301
+/wuzzie.html /books/wuzzie.html 301
